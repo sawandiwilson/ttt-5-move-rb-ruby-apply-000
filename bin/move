@@ -6,3 +6,4 @@ puts "Where would you like to go?"
 userInput = gets.strip
 frog = input_to_index(userInput)
 move(board, frog)
+dipla
